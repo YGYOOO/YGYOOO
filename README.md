@@ -6,8 +6,9 @@
 [![](https://img.shields.io/badge/Follow-@YGYOOO-1DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/YGYOOO)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YGYOOO)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YGYOOO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YGYOOO&repo=react-draggable-tags)](https://github.com/YGYOOO/react-draggable-tags)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YGYOOO&repo=ajax-interceptor)](https://github.com/YGYOOO/ajax-interceptor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YGYOOO&repo=WeChat-Shelter)](https://github.com/YGYOOO/WeChat-Shelter)
+<a href="https://github.com/YGYOOO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YGYOOO" />
+</a>
+<a href="https://github.com/YGYOOO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGYOOO&layout=compact" />
+</a>     
