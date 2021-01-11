@@ -1,6 +1,7 @@
 偶尔搞点好玩的东西，欢迎follow~    
 
-- 曲子：[space.bilibili.com/188294](//space.bilibili.com/188294) 或 [music.163.com/#/artist?id=29024154](//music.163.com/#/artist?id=29024154)    
+- 曲子（b站）：[space.bilibili.com/188294](//space.bilibili.com/188294) 
+- 曲子（网易云）：[music.163.com/#/artist?id=29024154](//music.163.com/#/artist?id=29024154)    
 - 文章：[juejin.im/user/59667f0bf265da6c4e7f7b25](//juejin.im/user/59667f0bf265da6c4e7f7b25/posts)     
 
 [![](https://img.shields.io/badge/Follow-@卧槽竟然是YGY的微博-red.svg?logo=Sina%20Weibo&style=for-the-badge)](https://weibo.com/u/5352731024)
