@@ -9,8 +9,8 @@
 - [掘金](//juejin.im/user/59667f0bf265da6c4e7f7b25/posts)    
 - [medium](//medium.com/@g594487125) 
 <a href="https://github.com/YGYOOO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YGYOOO" />
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=YGYOOO" />
 </a>
 <a href="https://github.com/YGYOOO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGYOOO&layout=compact" />
+  <img align="center" width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YGYOOO&layout=compact" />
 </a>     
